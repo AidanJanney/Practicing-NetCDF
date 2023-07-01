@@ -10,6 +10,7 @@ import scipy as sp
 import xarray as xr
 import pooch
 import pandas as pd
+import geopandas as gpd
 import netCDF4
 from netCDF4 import Dataset
 
